@@ -1,0 +1,15 @@
+{
+  "name": "memory-mode",
+  "owner": {
+    "name": "Sadhir Razaak Nazer"
+  },
+  "plugins": [
+    {
+      "name": "memory-mode",
+      "source": "./"
+    }
+  ],
+  "metadata": {
+    "description": "Per-conversation memory toggle for Claude"
+  }
+}

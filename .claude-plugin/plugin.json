@@ -1,0 +1,7 @@
+{
+  "name": "memory-mode",
+  "author": { "name": "Sadhir Razaak Nazer" },
+  "version": "0.1.0",
+  "description": "Pick Full, Prefs or None to choose how much of your memory Claude loads for each conversation.",
+  "types": "./types/index.d.ts"
+}
